@@ -19,7 +19,7 @@ The e-paper panel needs higher voltages than 3.3 V, so the board has the standar
 The panel holds its image with no power.
 
 ## Bill of materials
-48 parts on the board, plus the display and battery. Full list: [`bom/badge_bom.csv`](bom/badge_bom.csv).
+48 parts on the board, plus the display and battery. Full list: [`bom/badge_bom.csv`](badge_bom_prices.csv).
 
 
 ## Assembly notes
