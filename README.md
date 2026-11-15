@@ -1,4 +1,5 @@
 # WNXVRA E-Paper Badge
+<img width="586" height="322" alt="Screenshot 2026-11-14 224332" src="https://github.com/user-attachments/assets/3c97b21e-7cb9-4345-9590-80e1858332d6" />
 
 A wearable name badge with a 2.9" e-paper display, an ESP32-S3, USB-C charging and a LiPo battery.
 The board is shaped like a classic conference badge: chamfered corners, a second panel on the right
@@ -11,6 +12,7 @@ joined by two tabs, gold (ENIG) ornaments, and big gold lettering. The battery s
 - **3.3 V LDO** (AP2112K-3.3); the display supply is switched off by a P-MOSFET during deep sleep
 - **5 buttons**: RESET, BOOT, and three user buttons (A, B, C)
 - **Gold artwork and lettering** (WNXVRA on the front, @WNXVRA on the back), made of exposed copper
+<img width="513" height="353" alt="Screenshot 2026-11-14 224511" src="https://github.com/user-attachments/assets/a454d83f-91c9-4ffe-ac83-09150e7e10d5" />
 
 The e-paper panel needs higher voltages than 3.3 V, so the board has the standard boost circuit
 (MOSFET, 47 uH inductor, Schottky diodes and a negative charge pump). Cutting its supply in deep sleep saves battery.
