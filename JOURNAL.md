@@ -1,4 +1,4 @@
-# ESP32-S3 E-Paper Badge — Project Journal
+# November 15, 2026: ESP32-S3 E-Paper Badge
 <img width="674" height="254" alt="Screenshot 2026-11-14 183436" src="https://github.com/user-attachments/assets/47606a2f-645e-4800-9f09-6507a543acff" />
 
 ## 1. Project Overview
