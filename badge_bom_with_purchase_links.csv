@@ -1,0 +1,23 @@
+Qty,Designators,Value,Part number,LCSC,Unit USD,Line USD,Price status,Purchase link,Link type
+1.0,U1,ESP32-S3 module,ESP32-S3-MINI-1-N8,C2913206,4.50,4.5,checked,https://www.lcsc.com/search?q=C2913206,LCSC search
+1.0,U2,LiPo charger,MCP73831T-2ATI/OT,C14879,1.00,1.0,checked (0.93-1.27 at qty 1),https://www.lcsc.com/search?q=C14879,LCSC search
+1.0,U3,3.3 V regulator,AP2112K-3.3TRG1,C51118,0.20,0.2,estimate,https://www.lcsc.com/search?q=C51118,LCSC search
+1.0,J1,USB-C port,TYPE-C-31-M-12,C165948,0.20,0.2,estimate,https://www.lcsc.com/search?q=C165948,LCSC search
+1.0,J2,Battery connector,B2B-PH-K-S,,0.15,0.15,estimate,https://www.lcsc.com/search?q=B2B-PH-K-S,LCSC search
+1.0,J3,Display connector (FPC),FH12-24S-0.5SH(55),C202112,0.50,0.5,checked,https://www.lcsc.com/search?q=C202112,LCSC search
+1.0,Q1,P-MOSFET,AO3401A,,0.05,0.05,estimate,https://www.lcsc.com/search?q=AO3401A,LCSC search
+1.0,Q2,N-MOSFET,SI1308EDL-T1-GE3,C469327,0.45,0.45,estimate,https://www.lcsc.com/search?q=C469327,LCSC search
+3.0,D2 D3 D4,Schottky diode,MBR0530,C699108,0.04,0.12,estimate,https://www.lcsc.com/search?q=C699108,LCSC search
+1.0,D1,Charge LED,0603 red LED,,0.03,0.03,estimate,https://www.lcsc.com/search?q=0603%20red%20LED,LCSC search
+1.0,L1,47 uH inductor,NR4018T470M,,0.35,0.35,estimate,https://www.lcsc.com/search?q=NR4018T470M,LCSC search
+5.0,SW_RST SW_BOOT SW_A SW_B SW_C,Tactile button,PTS810,,0.20,1.0,estimate,https://www.lcsc.com/search?q=PTS810,LCSC search
+10.0,R1-R10,Resistors 0603 (5 values),generic,,0.01,0.1,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+3.0,C6 C8 C17,100 nF 0603,generic,,0.01,0.03,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+9.0,C3 C7 C10-C16,1 uF 0603,generic,,0.02,0.18,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+3.0,C1 C2 C9,4.7 uF 0603,generic,,0.04,0.12,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+2.0,C4 C5,10 uF 0805,generic,,0.05,0.1,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+3.0,C18 C19 C20,1 uF 50 V 0805,generic,,0.05,0.15,estimate,https://www.lcsc.com/search?q=generic,LCSC search
+1.0,(PCB),"Bare PCB 169x66 mm, 2-layer, 1.6 mm, ENIG",JLCPCB (about $25 for 5 boards),,5.00,5.0,estimate (range 4-7 per board),https://www.lcsc.com/search?q=JLCPCB%20%28about%20%2425%20for%205%20boards%29,LCSC search
+1.0,(display),2.9in e-paper,GDEY029T94,,8.70,8.7,checked,https://www.lcsc.com/search?q=GDEY029T94,LCSC search
+1.0,(battery),LiPo 3.7 V 500 mAh 503040,with protection + JST PH,,5.00,5.0,estimate,https://www.lcsc.com/search?q=with%20protection%20%2B%20JST%20PH,LCSC search
+,,,,,TOTAL per badge (before shipping),27.93,,,
