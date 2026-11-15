@@ -23,6 +23,8 @@ The panel holds its image with no power.
 
 ##CAD 
 3 CAD files one for the base, one for the cover and one for the buttons: [`.STEP`](.STEP).
+https://cad.onshape.com/documents/018a6b643a004c4ffecb9c05/w/87c0a5966f5afdf6ff250c8b/e/dd6d8290b7a9190482014b04
+
 ## Assembly notes
 - Check the LiPo plug polarity against J2 before connecting a battery. Cells from different sellers are wired differently.
 - Stick the battery to the back of the right panel with double-sided tape, inside the marked outline.
