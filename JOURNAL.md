@@ -1,4 +1,5 @@
 # ESP32-S3 E-Paper Badge — Project Journal
+<img width="674" height="254" alt="Screenshot 2026-11-14 183436" src="https://github.com/user-attachments/assets/47606a2f-645e-4800-9f09-6507a543acff" />
 
 ## 1. Project Overview
 
@@ -23,7 +24,8 @@ A custom ESP32-S3 badge featuring a 2.9-inch e-paper display, buttons, USB-C con
 
 Excludes shipping, taxes and assembly.
 
-## 4. Development Log
+<img width="512" height="210" alt="Screenshot 2026-11-14 224347" src="https://github.com/user-attachments/assets/75680a0c-db98-4524-b211-0dbf46df269b" />
+
 
 ### 15 November 2026
 
