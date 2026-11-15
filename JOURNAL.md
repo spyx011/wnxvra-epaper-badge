@@ -1,6 +1,6 @@
 # November 15, 2026: ESP32-S3 E-Paper Badge
 <img width="674" height="254" alt="Screenshot 2026-11-14 183436" src="https://github.com/user-attachments/assets/47606a2f-645e-4800-9f09-6507a543acff" />
-
+![PCB](images/pcb.png)
 ## 1. Project Overview
 
 A custom ESP32-S3 badge featuring a 2.9-inch e-paper display, buttons, USB-C connectivity and a rechargeable battery.
