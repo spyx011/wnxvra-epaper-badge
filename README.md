@@ -21,7 +21,8 @@ The panel holds its image with no power.
 ## Bill of materials
 48 parts on the board, plus the display and battery. Full list: [`bom/badge_bom.csv`](badge_bom_prices.csv).
 
-
+##CAD 
+3 CAD files one for the base, one for the cover and one for the buttons: [`CAD`](CAD).
 ## Assembly notes
 - Check the LiPo plug polarity against J2 before connecting a battery. Cells from different sellers are wired differently.
 - Stick the battery to the back of the right panel with double-sided tape, inside the marked outline.
